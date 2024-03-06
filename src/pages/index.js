@@ -32,7 +32,7 @@ export default function Home() {
               Você ganhou um combo de Whisky Grátis em comemoração ao lançamento do filme! Resgate agora!
             </h2>
 
-            <p>Promoção exclusiva para o Shopping Iguatemi São Paulo.</p>
+            <p>Promoção exclusiva para a cidade de Maringá PR.</p>
           </div>
 
           <div className={styles.form_data}>
@@ -62,7 +62,7 @@ export default function Home() {
 
       <div>
         <span className={styles.copy}>
-          © 2023 Peaky Blinders
+          © 2024 Peaky Blinders
         </span>
       </div>
 
